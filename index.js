@@ -117,10 +117,5 @@ function showAllData(index) {
 }
 
 
-// function getLocationData(){
-// 	navigator.geolocation.watchPosition((data)=>{
-// 		console.log(data);
-		
-// 	})
-// }
+
 
